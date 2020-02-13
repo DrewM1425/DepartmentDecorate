@@ -32,8 +32,36 @@ ul
     list-style-image: url("../pics/pokeball_PNG24.png");
     margin: 
 }
+
 p
 {
 
     font-size: 20px;
+}
+
+/* all pokemon images used from pokestop.io and https://bulbapedia.bulbagarden.net/  */
+#StudioArt
+{
+    background: cornflowerblue url("../pics/smeargle.png") no-repeat center;
+    
+}
+
+#Economics
+{
+    background: cornflowerblue url("../pics/persian-256x256.png") no-repeat center;
+}
+
+#Politics
+{
+    background: cornflowerblue url("../pics/garbodor-256x256.png") no-repeat center;
+}
+
+#ComputerScience
+{
+    background: cornflowerblue url("../pics/porygon-256x256.png") no-repeat center;
+}
+
+#Mathematics
+{
+    background: cornflowerblue url("../pics/alakazam-256x256.png") no-repeat center;
 }

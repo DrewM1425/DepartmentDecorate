@@ -1,1 +1,67 @@
-//css  file for Site B
+h1
+{ 
+    font-family: fantasy;
+
+}
+
+td, th
+{
+    border: 1px solid black;
+    text-align: center;
+    background-color: white;
+}
+
+img
+{
+    height: 100px;
+    width: 100px;
+}
+
+body
+{
+    background-color: crimson;
+}
+
+a
+{
+    color:chartreuse;
+}
+
+ul
+{
+    list-style-image: url("../pics/pokeball.png");
+    margin: 
+}
+
+p
+{
+
+    font-size: 20px;
+}
+
+/* all pokemon images used from https://bulbapedia.bulbagarden.net/   */
+#StudioArt
+{
+    background: crimson url("../pics/arceus.png") no-repeat center;
+    
+}
+
+#Economics
+{
+    background: crimson url("../pics/giratina.png") no-repeat center;
+}
+
+#Politics
+{
+    background: crimson url("../pics/moltres.png") no-repeat center;
+}
+
+#ComputerScience
+{
+    background: crimson url("../pics/rotom.png") no-repeat center;
+}
+
+#Mathematics
+{
+    background: crimson url("../pics/regirock.png") no-repeat center;
+}
